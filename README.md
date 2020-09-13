@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on any Data Science or ML project
 💬 Ask me about OpenCV,Pandas,Tesnorflow,Sic-kit learn ,Keras
 📫 How to reach me: me18b033@iittp.ac.in
-⚡ Fun fact: I am funny!!!
+⚡ Fun fact: When'STRESSED' is spelled backwards it becomes 'DESSERTS'!!!
 
 <!--
 **TrunnMosby/TrunnMosby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
